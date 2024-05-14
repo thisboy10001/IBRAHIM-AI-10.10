@@ -1,5 +1,5 @@
 {
-  "name": "Bmw-md",
+  "name": "Tue Manno",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "Mr T-M",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimaitech"
+    "mrTm"
   ],
-  "author": "ibrahimartech",
+  "author": "Mr T-M",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
