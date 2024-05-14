@@ -1,6 +1,6 @@
 {
-  "name":"BMW-MDV2",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "name":"Mr T-M",
+  "description":"Bot deploy by Mr T-M ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
   "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑩𝑴𝑾  𝑴𝑫",
+      "value":"Mr T-M 🥴✨",
       "required":false
 
     } ,
